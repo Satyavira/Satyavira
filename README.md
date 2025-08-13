@@ -7,8 +7,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Satyavira/Satyavira/main/techstack.gif" width="360px"/>
-  
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently studying computer science in University of Sumatera Utara;
@@ -39,3 +37,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyavira&show_icons=true&locale=en" alt="satyavira" /></p>
